@@ -31,8 +31,6 @@
 
 ---
 
----
-
 ## Full Documentation Found Here:
 
 https://docs.google.com/document/d/1leqfYqjzB9zKQ_UTSe2Mh5pUl4m0ZX2J0jO5OBIaCuE/edit?usp=sharing
