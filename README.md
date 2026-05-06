@@ -1,4 +1,4 @@
-# ELEC291 Project 2 — Field Detection and Remote Control Robot
+# Field Detection and Remote Control Robot Car
 **University of British Columbia — Electrical and Computer Engineering**  
 **Course:** ELEC291/ELEC292  
 **Instructor:** Dr. Jesús Calviño-Fraga  
