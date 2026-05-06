@@ -15,7 +15,15 @@
 ## Video Discription of Entire Project:   
    
 
-[![Field Detection Robot Video](https://img.youtube.com/vi/U5jY5kz8_YE/0.jpg)](https://www.youtube.com/watch?v=U5jY5kz8_YE)
+<div align="center">
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/U5jY5kz8_YE?autoplay=1&mute=1" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 ## Full Documentation Found Here:
 
