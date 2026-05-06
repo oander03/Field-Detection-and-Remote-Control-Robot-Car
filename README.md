@@ -5,6 +5,10 @@
 
 ---
 
+https://www.youtube.com/watch?v=U5jY5kz8_YE&t=7s
+
+---
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [System Architecture](#system-architecture)
