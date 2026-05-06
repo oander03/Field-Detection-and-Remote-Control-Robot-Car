@@ -1,6 +1,6 @@
 # Field Detection and Remote Control Robot Car
 
-<img width="603" height="439" alt="image" src="https://github.com/user-attachments/assets/7ce4e495-8081-4d5b-9dcc-4dc169e82a77" />  
+<img width="40%" src="https://github.com/user-attachments/assets/7ce4e495-8081-4d5b-9dcc-4dc169e82a77" />  
 
   
 
