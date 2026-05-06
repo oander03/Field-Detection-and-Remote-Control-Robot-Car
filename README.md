@@ -1,7 +1,8 @@
 # Field Detection and Remote Control Robot Car
 
-<img width="40%" src="https://github.com/user-attachments/assets/7ce4e495-8081-4d5b-9dcc-4dc169e82a77" />  
-
+<p align="center">
+<img width="100%" src="https://github.com/user-attachments/assets/7ce4e495-8081-4d5b-9dcc-4dc169e82a77" />  
+</p>
   
 
 **University of British Columbia — Electrical and Computer Engineering**  
