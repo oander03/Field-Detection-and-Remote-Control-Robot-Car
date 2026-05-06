@@ -5,7 +5,7 @@
 
 ---
 
-Video description of entire project 
+Video description of entire project:  
 [![Field Detection Robot Video](https://img.youtube.com/vi/U5jY5kz8_YE/0.jpg)](https://www.youtube.com/watch?v=U5jY5kz8_YE)
 
 ---
