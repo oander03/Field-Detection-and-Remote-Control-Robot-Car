@@ -1,9 +1,10 @@
 # Field Detection and Remote Control Robot Car
+
+<img width="499" height="649" alt="image" src="https://github.com/user-attachments/assets/a5226afb-1616-4ea4-97ff-a56fd2b6a91c" />
+
 **University of British Columbia — Electrical and Computer Engineering**  
 **Course:** ELEC291/ELEC292  
 **Instructor:** Dr. Jesús Calviño-Fraga  
-
-<img width="499" height="649" alt="image" src="https://github.com/user-attachments/assets/a5226afb-1616-4ea4-97ff-a56fd2b6a91c" />
 
 
 ---
